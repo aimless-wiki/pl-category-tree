@@ -1,0 +1,1 @@
+{"name": "Objawy_chorobowe", "id": 113624, "predecessors": [{"name": "Diagnostyka_medyczna", "id": 113628}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Izolowane_objawy_psychiatryczne", "id": 841163}, {"name": "Neurologiczne_objawy_chorobowe", "id": 841168}, {"name": "Ból", "id": 985358}]}

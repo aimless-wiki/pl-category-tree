@@ -1,0 +1,1 @@
+{"name": "Ubezpieczenia", "id": 285812, "predecessors": [{"name": "Bezpieczeństwo", "id": 599649}, {"name": "Finanse", "id": 115702}, {"name": "Usługi", "id": 284934}], "successors": [{"name": "Ubezpieczenia_społeczne", "id": 567933}, {"name": "Przedsiębiorstwa_ubezpieczeniowe", "id": 1042314}]}

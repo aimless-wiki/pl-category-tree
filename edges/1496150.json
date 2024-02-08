@@ -1,0 +1,1 @@
+{"name": "Samochody_luksusowe", "id": 1496150, "predecessors": [{"name": "Klasyfikacja_samochodów", "id": 694776}], "successors": [{"name": "Samochody_Cadillac", "id": 310572}, {"name": "Samochody_Bentley", "id": 931429}, {"name": "Samochody_Buick", "id": 932328}, {"name": "Samochody_Lincoln", "id": 932373}, {"name": "Samochody_Rolls-Royce", "id": 932391}]}

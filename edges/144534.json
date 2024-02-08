@@ -1,0 +1,1 @@
+{"name": "Higiena", "id": 144534, "predecessors": [{"name": "Profilaktyka_zdrowotna", "id": 285035}], "successors": [{"name": "Higiena_osobista", "id": 95223}, {"name": "Antyseptyki", "id": 1528654}, {"name": "Bezpieczeństwo_i_higiena_pracy", "id": 2422134}]}

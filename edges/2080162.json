@@ -1,0 +1,1 @@
+{"name": "Android", "id": 2080162, "predecessors": [{"name": "Google", "id": 556350}, {"name": "Linux", "id": 106760}, {"name": "Systemy_operacyjne", "id": 66678}], "successors": [{"name": "Urządzenia_z_systemem_operacyjnym_Android", "id": 2334396}, {"name": "Gry_na_platformę_Android", "id": 2430036}, {"name": "Aplikacje_na_platformę_Android", "id": 2535661}]}

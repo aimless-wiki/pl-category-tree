@@ -1,0 +1,1 @@
+{"name": "Cyfrowe_przetwarzanie_sygnałów", "id": 321562, "predecessors": [{"name": "Elektronika_cyfrowa", "id": 224579}, {"name": "Przetwarzanie_sygnałów", "id": 1740799}, {"name": "Statystyka", "id": 69130}, {"name": "Transmisja_danych", "id": 3338899}], "successors": [{"name": "Cyfrowe_przetwarzanie_obrazów", "id": 321679}, {"name": "Procesy_stochastyczne", "id": 391663}]}

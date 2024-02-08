@@ -1,0 +1,1 @@
+{"name": "Procesory", "id": 99556, "predecessors": [{"name": "Sprzęt_komputerowy", "id": 67555}, {"name": "Elementy_elektroniczne", "id": 303801}], "successors": [{"name": "Gniazda_procesorów", "id": 569975}, {"name": "Architektury_procesorów", "id": 815876}, {"name": "Procesory_AMD", "id": 815909}, {"name": "Procesory_Intel", "id": 815929}]}

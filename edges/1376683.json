@@ -1,0 +1,1 @@
+{"name": "Diagnostyka_laboratoryjna", "id": 1376683, "predecessors": [{"name": "Diagnostyka_medyczna", "id": 113628}, {"name": "Specjalności_lekarskie", "id": 72871}], "successors": [{"name": "Badania_krwi", "id": 1677504}]}

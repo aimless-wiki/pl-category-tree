@@ -1,0 +1,1 @@
+{"name": "Pediatria", "id": 101938, "predecessors": [{"name": "Dziecko", "id": 3056718}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Zaburzenia_rozwoju", "id": 125995}, {"name": "Neonatologia", "id": 199236}]}

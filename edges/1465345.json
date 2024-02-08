@@ -1,0 +1,1 @@
+{"name": "Budowa_systemu_operacyjnego", "id": 1465345, "predecessors": [{"name": "Informatyka", "id": 65978}, {"name": "Systemy_operacyjne", "id": 66678}], "successors": [{"name": "Systemy_plików", "id": 77647}, {"name": "Biblioteki_programistyczne", "id": 106226}, {"name": "Zarządzanie_pamięcią", "id": 2035675}, {"name": "GNOME", "id": 102742}]}
