@@ -1,1 +1,1 @@
-{"name": "Niemieccy_kompozytorzy", "id": 116339, "predecessors": [{"name": "Niemieccy_muzycy", "id": 444116}, {"name": "Muzyka", "id": 63561}], "successors": [{"name": "Niemieccy_kompozytorzy_baroku", "id": 1557184}, {"name": "Niemieccy_kompozytorzy_klasycyzmu", "id": 4928445}]}
+{"name": "Niemieccy_kompozytorzy", "id": 116339, "predecessors": [{"name": "Niemieccy_muzycy", "id": 444116}, {"name": "Kompozytorzy", "id": 4230566}], "successors": [{"name": "Niemieccy_kompozytorzy_baroku", "id": 1557184}, {"name": "Niemieccy_kompozytorzy_klasycyzmu", "id": 4928445}]}

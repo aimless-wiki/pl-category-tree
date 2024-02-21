@@ -1,1 +1,1 @@
-{"name": "Banki_centralne", "id": 717813, "predecessors": [{"name": "Banki", "id": 160952}, {"name": "Polityka_pieniężna", "id": 1258110}], "successors": [{"name": "Prezesi_banków_centralnych", "id": 4188574}]}
+{"name": "Banki_centralne", "id": 717813, "predecessors": [{"name": "Polityka_pieniężna", "id": 1258110}, {"name": "Bankowość", "id": 137570}], "successors": [{"name": "Prezesi_banków_centralnych", "id": 4188574}]}

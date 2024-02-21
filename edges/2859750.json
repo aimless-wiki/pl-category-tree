@@ -1,1 +1,1 @@
-{"name": "Rozgrywki_piłkarskie_w_Brazylii", "id": 2859750, "predecessors": [{"name": "Piłka_nożna", "id": 67674}], "successors": [{"name": "I_liga_brazylijska_w_piłce_nożnej", "id": 1015604}]}
+{"name": "Rozgrywki_piłkarskie_w_Brazylii", "id": 2859750, "predecessors": [{"name": "Dyscypliny_sportowe", "id": 1030024}, {"name": "Konkursy", "id": 714212}], "successors": [{"name": "I_liga_brazylijska_w_piłce_nożnej", "id": 1015604}]}
