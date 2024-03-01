@@ -1,1 +1,1 @@
-{"name": "Polscy_mechanicy", "id": 4251244, "predecessors": [{"name": "Polscy_robotnicy", "id": 2754995}], "successors": [{"name": "Polscy_inżynierowie_mechanicy", "id": 3355051}]}
+{"name": "Polscy_mechanicy", "id": 4251244, "predecessors": [{"name": "Kategorie", "id": 1382275}, {"name": "Praca", "id": 2244196}], "successors": [{"name": "Polscy_inżynierowie_mechanicy", "id": 3355051}]}
