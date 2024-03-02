@@ -1,1 +1,1 @@
-{"name": "Obwody_elektroniczne", "id": 940595, "predecessors": [{"name": "Systemy_i_urządzenia_elektroniczne", "id": 669215}, {"name": "Teoria_obwodów", "id": 2698829}, {"name": "Urządzenia_elektryczne", "id": 1437617}], "successors": []}
+{"name": "Obwody_elektroniczne", "id": 940595, "predecessors": [{"name": "Systemy_i_urządzenia_elektroniczne", "id": 669215}, {"name": "Teoria_obwodów", "id": 2698829}, {"name": "Urządzenia_elektryczne", "id": 1437617}], "successors": [{"name": "Wzmacniacze", "id": 2921303}]}

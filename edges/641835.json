@@ -1,1 +1,1 @@
-{"name": "Gospodarstwo_domowe", "id": 641835, "predecessors": [{"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Sprzęt_AGD", "id": 263639}, {"name": "Kynologia", "id": 97708}, {"name": "Rasy_kotów", "id": 97648}]}
+{"name": "Gospodarstwo_domowe", "id": 641835, "predecessors": [{"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Sprzęt_AGD", "id": 263639}, {"name": "Akwarystyka", "id": 93889}, {"name": "Kynologia", "id": 97708}, {"name": "Rasy_kotów", "id": 97648}]}
