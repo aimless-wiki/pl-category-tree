@@ -1,1 +1,1 @@
-{"name": "Linie_kolejowe_w_Niemczech", "id": 884251, "predecessors": [{"name": "Infrastruktura_kolejowa", "id": 196448}, {"name": "Obiekty_budowlane", "id": 161428}, {"name": "Transport", "id": 75806}], "successors": []}
+{"name": "Linie_kolejowe_w_Niemczech", "id": 884251, "predecessors": [{"name": "Transport_kolejowy_według_państw", "id": 2807625}, {"name": "Infrastruktura_kolejowa", "id": 196448}, {"name": "Obiekty_budowlane", "id": 161428}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Dystrybucje_Linuksa", "id": 100006, "predecessors": [{"name": "Linux", "id": 106760}], "successors": [{"name": "Debian", "id": 106600}]}
+{"name": "Dystrybucje_Linuksa", "id": 100006, "predecessors": [{"name": "Linux", "id": 106760}], "successors": [{"name": "Debian", "id": 106600}, {"name": "Nierozwijane_dystrybucje_Linuksa", "id": 5399522}]}

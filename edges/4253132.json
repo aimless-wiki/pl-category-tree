@@ -1,1 +1,1 @@
-{"name": "Linie_kolejowe_na_Białorusi", "id": 4253132, "predecessors": [{"name": "Obiekty_budowlane", "id": 161428}, {"name": "Infrastruktura_kolejowa", "id": 196448}, {"name": "Transport", "id": 75806}], "successors": []}
+{"name": "Linie_kolejowe_na_Białorusi", "id": 4253132, "predecessors": [{"name": "Transport_kolejowy_według_państw", "id": 2807625}, {"name": "Obiekty_budowlane", "id": 161428}, {"name": "Infrastruktura_kolejowa", "id": 196448}], "successors": []}
