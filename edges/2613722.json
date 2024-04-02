@@ -1,1 +1,1 @@
-{"name": "Filmy_z_serii_Scooby_Doo", "id": 2613722, "predecessors": [{"name": "Filmy_o_psach", "id": 3651761}, {"name": "Serie_filmowe", "id": 725685}, {"name": "Rozrywki", "id": 187078}], "successors": []}
+{"name": "Filmy_z_serii_Scooby_Doo", "id": 2613722, "predecessors": [{"name": "Filmy_o_psach", "id": 3651761}, {"name": "Serie_filmowe", "id": 725685}, {"name": "Kategorie", "id": 1382275}], "successors": []}

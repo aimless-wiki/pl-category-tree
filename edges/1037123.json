@@ -1,1 +1,1 @@
-{"name": "Misje_na_Marsa", "id": 1037123, "predecessors": [{"name": "Astronomia", "id": 64587}, {"name": "Układy_planetarne", "id": 2200703}], "successors": []}
+{"name": "Misje_na_Marsa", "id": 1037123, "predecessors": [{"name": "Układy_planetarne", "id": 2200703}, {"name": "Kategorie", "id": 1382275}], "successors": []}

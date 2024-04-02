@@ -1,1 +1,1 @@
-{"name": "Geometria", "id": 65982, "predecessors": [{"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Kąty", "id": 843306}, {"name": "Geometria_euklidesowa", "id": 1505327}, {"name": "Geometria_różniczkowa", "id": 161007}]}
+{"name": "Geometria", "id": 65982, "predecessors": [{"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Kąty", "id": 843306}, {"name": "Przyrządy_pomiarów_geometrycznych", "id": 5632245}, {"name": "Geometria_euklidesowa", "id": 1505327}, {"name": "Geometria_różniczkowa", "id": 161007}]}

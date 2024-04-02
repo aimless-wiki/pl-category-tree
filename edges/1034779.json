@@ -1,1 +1,1 @@
-{"name": "Eksploracja_Księżyca", "id": 1034779, "predecessors": [{"name": "Astronomia", "id": 64587}, {"name": "Astronautyka", "id": 66748}], "successors": [{"name": "Program_Apollo", "id": 135177}, {"name": "Program_Łuna", "id": 640162}]}
+{"name": "Eksploracja_Księżyca", "id": 1034779, "predecessors": [{"name": "Astronautyka", "id": 66748}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Program_Apollo", "id": 135177}, {"name": "Program_Łuna", "id": 640162}]}

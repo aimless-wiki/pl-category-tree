@@ -1,1 +1,1 @@
-{"name": "Oficerowie_Kedywu_AK", "id": 4273213, "predecessors": [{"name": "Oficerowie_Armii_Krajowej", "id": 2734555}, {"name": "Żołnierze_Armii_Krajowej", "id": 223153}], "successors": []}
+{"name": "Oficerowie_Kedywu_AK", "id": 4273213, "predecessors": [{"name": "Oficerowie_Armii_Krajowej", "id": 2734555}, {"name": "Armia_Krajowa", "id": 121600}], "successors": []}
