@@ -1,1 +1,1 @@
-{"name": "Metro_w_Monachium", "id": 1553260, "predecessors": [{"name": "Metro", "id": 196407}, {"name": "Obiekty_budowlane", "id": 161428}, {"name": "Transport", "id": 75806}], "successors": []}
+{"name": "Metro_w_Monachium", "id": 1553260, "predecessors": [{"name": "Publiczny_transport_zbiorowy", "id": 3098097}, {"name": "Obiekty_budowlane", "id": 161428}, {"name": "Transport", "id": 75806}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Metro_w_Mediolanie", "id": 1968783, "predecessors": [{"name": "Metro", "id": 196407}, {"name": "Kategorie", "id": 1382275}, {"name": "Transport", "id": 75806}], "successors": []}
+{"name": "Metro_w_Mediolanie", "id": 1968783, "predecessors": [{"name": "Publiczny_transport_zbiorowy", "id": 3098097}, {"name": "Kategorie", "id": 1382275}, {"name": "Transport", "id": 75806}], "successors": []}

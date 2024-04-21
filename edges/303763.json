@@ -1,1 +1,1 @@
-{"name": "Technologia_obróbki_drewna", "id": 303763, "predecessors": [{"name": "Technologia", "id": 172193}], "successors": [{"name": "Narzędzia_stolarskie", "id": 793303}]}
+{"name": "Technologia_obróbki_drewna", "id": 303763, "predecessors": [{"name": "Technologia", "id": 172193}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Narzędzia_stolarskie", "id": 793303}]}

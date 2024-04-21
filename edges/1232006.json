@@ -1,1 +1,1 @@
-{"name": "Obrazowanie_medyczne", "id": 1232006, "predecessors": [{"name": "Diagnostyka_medyczna", "id": 113628}, {"name": "Radiologia", "id": 177148}, {"name": "Informatyka", "id": 65978}], "successors": []}
+{"name": "Obrazowanie_medyczne", "id": 1232006, "predecessors": [{"name": "Diagnostyka_medyczna", "id": 113628}, {"name": "Radiologia", "id": 177148}, {"name": "Informatyka", "id": 65978}, {"name": "Kategorie", "id": 1382275}], "successors": []}

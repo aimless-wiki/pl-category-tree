@@ -1,1 +1,1 @@
-{"name": "Geofizyka", "id": 422888, "predecessors": [{"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Hydrologia", "id": 76061}, {"name": "Meteorologia_i_fizyka_atmosfery", "id": 399866}, {"name": "Budowa_Ziemi", "id": 881794}, {"name": "Polscy_geofizycy", "id": 1239774}]}
+{"name": "Geofizyka", "id": 422888, "predecessors": [{"name": "Ziemia", "id": 140184}], "successors": [{"name": "Hydrologia", "id": 76061}, {"name": "Meteorologia_i_fizyka_atmosfery", "id": 399866}, {"name": "Budowa_Ziemi", "id": 881794}, {"name": "Polscy_geofizycy", "id": 1239774}]}

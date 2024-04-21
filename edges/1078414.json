@@ -1,1 +1,1 @@
-{"name": "Atole_Oceanu_Spokojnego", "id": 1078414, "predecessors": [{"name": "Ocean_Spokojny", "id": 64019}, {"name": "Formy_ukształtowania_terenu", "id": 880663}], "successors": [{"name": "Tuamotu", "id": 5098124}]}
+{"name": "Atole_Oceanu_Spokojnego", "id": 1078414, "predecessors": [{"name": "Formy_ukształtowania_terenu", "id": 880663}, {"name": "Oceanografia", "id": 80900}], "successors": [{"name": "Tuamotu", "id": 5098124}]}

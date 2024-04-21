@@ -1,1 +1,1 @@
-{"name": "Statki_i_okręty_zatopione_na_Morzu_Filipińskim", "id": 4309054, "predecessors": [{"name": "Statki_i_okręty_zatopione_na_Oceanie_Spokojnym", "id": 4308965}, {"name": "Ocean_Spokojny", "id": 64019}, {"name": "Maszyny", "id": 555333}], "successors": []}
+{"name": "Statki_i_okręty_zatopione_na_Morzu_Filipińskim", "id": 4309054, "predecessors": [{"name": "Statki_i_okręty_zatopione_na_Oceanie_Spokojnym", "id": 4308965}, {"name": "Morza_Oceanu_Spokojnego", "id": 1067609}, {"name": "Maszyny", "id": 555333}], "successors": []}

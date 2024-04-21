@@ -1,1 +1,1 @@
-{"name": "Metro_w_Wiedniu", "id": 3504050, "predecessors": [{"name": "Metro", "id": 196407}, {"name": "Transport", "id": 75806}], "successors": []}
+{"name": "Metro_w_Wiedniu", "id": 3504050, "predecessors": [{"name": "Transport", "id": 75806}, {"name": "Publiczny_transport_zbiorowy", "id": 3098097}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "MTR_w_Hongkongu", "id": 3589295, "predecessors": [{"name": "Metro", "id": 196407}, {"name": "Gospodarka", "id": 458687}], "successors": []}
+{"name": "MTR_w_Hongkongu", "id": 3589295, "predecessors": [{"name": "Publiczny_transport_zbiorowy", "id": 3098097}, {"name": "Gospodarka", "id": 458687}], "successors": []}

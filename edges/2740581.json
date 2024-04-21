@@ -1,1 +1,1 @@
-{"name": "Metro_w_Helsinkach", "id": 2740581, "predecessors": [{"name": "Metro", "id": 196407}, {"name": "Transport", "id": 75806}], "successors": []}
+{"name": "Metro_w_Helsinkach", "id": 2740581, "predecessors": [{"name": "Publiczny_transport_zbiorowy", "id": 3098097}, {"name": "Transport", "id": 75806}], "successors": []}

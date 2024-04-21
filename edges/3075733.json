@@ -1,1 +1,1 @@
-{"name": "Metro_w_Hamburgu", "id": 3075733, "predecessors": [{"name": "Metro", "id": 196407}, {"name": "Gospodarka_Niemiec", "id": 886928}], "successors": []}
+{"name": "Metro_w_Hamburgu", "id": 3075733, "predecessors": [{"name": "Publiczny_transport_zbiorowy", "id": 3098097}, {"name": "Gospodarka_Niemiec", "id": 886928}], "successors": []}

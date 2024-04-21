@@ -1,1 +1,1 @@
-{"name": "Statki_i_okręty_zatopione_na_Morzu_Salomona", "id": 4312368, "predecessors": [{"name": "Statki_i_okręty_zatopione_na_Oceanie_Spokojnym", "id": 4308965}, {"name": "Maszyny", "id": 555333}, {"name": "Ocean_Spokojny", "id": 64019}], "successors": []}
+{"name": "Statki_i_okręty_zatopione_na_Morzu_Salomona", "id": 4312368, "predecessors": [{"name": "Statki_i_okręty_zatopione_na_Oceanie_Spokojnym", "id": 4308965}, {"name": "Maszyny", "id": 555333}, {"name": "Morza_Oceanu_Spokojnego", "id": 1067609}], "successors": []}

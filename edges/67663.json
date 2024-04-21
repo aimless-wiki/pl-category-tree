@@ -1,1 +1,1 @@
-{"name": "Gleboznawstwo", "id": 67663, "predecessors": [{"name": "Rolnictwo", "id": 69793}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Gleby", "id": 989770}, {"name": "Erozja", "id": 1668150}, {"name": "Polscy_gleboznawcy", "id": 3937382}]}
+{"name": "Gleboznawstwo", "id": 67663, "predecessors": [{"name": "Rolnictwo", "id": 69793}, {"name": "Ziemia", "id": 140184}], "successors": [{"name": "Gleby", "id": 989770}, {"name": "Erozja", "id": 1668150}, {"name": "Polscy_gleboznawcy", "id": 3937382}]}
