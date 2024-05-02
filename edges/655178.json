@@ -1,1 +1,1 @@
-{"name": "Sadownictwo", "id": 655178, "predecessors": [{"name": "Ogrodnictwo", "id": 100896}], "successors": [{"name": "Rośliny_owocowe", "id": 1207315}, {"name": "Szkodniki_drzew_owocowych", "id": 1874500}, {"name": "Choroby_roślin_sadowniczych", "id": 2307075}]}
+{"name": "Sadownictwo", "id": 655178, "predecessors": [{"name": "Ogrodnictwo", "id": 100896}], "successors": [{"name": "Rośliny_owocowe", "id": 1207315}, {"name": "Szkodniki_drzew_owocowych", "id": 1874500}, {"name": "Choroby_roślin_sadowniczych", "id": 2307075}, {"name": "Polscy_sadownicy", "id": 3957905}]}

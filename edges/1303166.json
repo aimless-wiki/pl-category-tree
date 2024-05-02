@@ -1,1 +1,1 @@
-{"name": "Sieci_hotelowe", "id": 1303166, "predecessors": [{"name": "Turystyka", "id": 64357}], "successors": []}
+{"name": "Sieci_hotelowe", "id": 1303166, "predecessors": [{"name": "Hotele", "id": 231598}], "successors": []}

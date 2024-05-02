@@ -1,1 +1,1 @@
-{"name": "Samochody_BYD", "id": 3056900, "predecessors": [{"name": "Klasyfikacja_samochodów", "id": 694776}], "successors": []}
+{"name": "Samochody_BYD", "id": 3056900, "predecessors": [{"name": "Klasyfikacja_samochodów", "id": 694776}, {"name": "Kategorie", "id": 1382275}], "successors": []}
