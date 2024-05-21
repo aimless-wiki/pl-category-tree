@@ -1,1 +1,1 @@
-{"name": "Ochrona_przeciwporażeniowa", "id": 2411451, "predecessors": [{"name": "Bezpieczeństwo_i_higiena_pracy", "id": 2422134}, {"name": "Elektryczność", "id": 65970}], "successors": []}
+{"name": "Ochrona_przeciwporażeniowa", "id": 2411451, "predecessors": [{"name": "Bezpieczeństwo_i_higiena_pracy", "id": 2422134}, {"name": "Elektrotechnika", "id": 160974}, {"name": "Elektryczność", "id": 65970}], "successors": []}

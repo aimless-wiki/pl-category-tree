@@ -1,1 +1,1 @@
-{"name": "Optycy", "id": 2153798, "predecessors": [{"name": "Optyka", "id": 65382}, {"name": "Nauki_techniczne", "id": 555304}, {"name": "Praca", "id": 2244196}], "successors": []}
+{"name": "Optycy", "id": 2153798, "predecessors": [{"name": "Optyka", "id": 65382}, {"name": "Nauki_techniczne", "id": 555304}, {"name": "Praca", "id": 2244196}], "successors": [{"name": "Twórcy_instrumentów_astronomicznych", "id": 3209960}]}

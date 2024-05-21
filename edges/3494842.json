@@ -1,1 +1,1 @@
-{"name": "Dawne_banki", "id": 3494842, "predecessors": [{"name": "Nieistniejące_przedsiębiorstwa", "id": 2207157}, {"name": "Bankowość", "id": 137570}], "successors": []}
+{"name": "Dawne_banki", "id": 3494842, "predecessors": [{"name": "Banki", "id": 160952}, {"name": "Nieistniejące_przedsiębiorstwa", "id": 2207157}, {"name": "Bankowość", "id": 137570}], "successors": []}

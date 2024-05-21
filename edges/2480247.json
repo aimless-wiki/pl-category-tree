@@ -1,1 +1,1 @@
-{"name": "Kolarze_CCC_Polsat_Polkowice", "id": 2480247, "predecessors": [{"name": "Praca", "id": 2244196}, {"name": "Polsat", "id": 777132}], "successors": []}
+{"name": "Kolarze_CCC_Polsat_Polkowice", "id": 2480247, "predecessors": [{"name": "Praca", "id": 2244196}, {"name": "Polsat", "id": 777132}, {"name": "Kategorie", "id": 1382275}], "successors": []}
