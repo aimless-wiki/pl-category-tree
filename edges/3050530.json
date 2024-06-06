@@ -1,1 +1,1 @@
-{"name": "Rosyjscy_lekkoatleci_ukarani_za_doping", "id": 3050530, "predecessors": [{"name": "Lekkoatleci_ukarani_za_doping", "id": 2470450}, {"name": "Rosyjscy_sportowcy_ukarani_za_doping", "id": 2627559}], "successors": []}
+{"name": "Rosyjscy_lekkoatleci_ukarani_za_doping", "id": 3050530, "predecessors": [{"name": "Rosyjscy_sportowcy_ukarani_za_doping", "id": 2627559}, {"name": "Dyscypliny_sportowe", "id": 1030024}], "successors": []}
