@@ -1,1 +1,1 @@
-{"name": "Choroby_grzybicze", "id": 1015721, "predecessors": [{"name": "Choroby_zakaźne", "id": 67429}], "successors": []}
+{"name": "Choroby_grzybicze", "id": 1015721, "predecessors": [{"name": "Choroby_zakaźne", "id": 67429}, {"name": "Kategorie", "id": 1382275}], "successors": []}
