@@ -1,1 +1,1 @@
-{"name": "Rodzaje_pieczywa", "id": 89020, "predecessors": [{"name": "Kategorie", "id": 1382275}, {"name": "Przemysł_spożywczy", "id": 100901}], "successors": []}
+{"name": "Rodzaje_pieczywa", "id": 89020, "predecessors": [{"name": "Kategorie", "id": 1382275}, {"name": "Przemysł_spożywczy", "id": 100901}], "successors": [{"name": "Rodzaje_chleba", "id": 3036136}]}
