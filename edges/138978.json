@@ -1,1 +1,1 @@
-{"name": "Magia", "id": 138978, "predecessors": [{"name": "Religioznawstwo", "id": 63676}, {"name": "Filozofia_religii", "id": 1958097}], "successors": [{"name": "Filmy_o_czarach", "id": 4961452}, {"name": "Astrologia", "id": 318659}]}
+{"name": "Magia", "id": 138978, "predecessors": [{"name": "Religioznawstwo", "id": 63676}, {"name": "Filozofia_religii", "id": 1958097}], "successors": [{"name": "Wróżenie", "id": 441672}, {"name": "Filmy_o_czarach", "id": 4961452}, {"name": "Mistycy", "id": 117394}, {"name": "Kabaliści", "id": 935805}]}

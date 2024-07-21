@@ -1,1 +1,1 @@
-{"name": "Polscy_pisarze_podróżnicy", "id": 2062010, "predecessors": [{"name": "Polscy_pisarze", "id": 65560}, {"name": "Polscy_podróżnicy_i_odkrywcy", "id": 305058}, {"name": "Sztuka", "id": 65406}], "successors": []}
+{"name": "Polscy_pisarze_podróżnicy", "id": 2062010, "predecessors": [{"name": "Pisarze_podróżnicy", "id": 2062013}, {"name": "Polscy_pisarze", "id": 65560}, {"name": "Polscy_podróżnicy_i_odkrywcy", "id": 305058}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Polscy_aktorzy_radiowi", "id": 2590031, "predecessors": [{"name": "Ludzie_radia_w_Polsce", "id": 1742038}, {"name": "Polscy_aktorzy_głosowi", "id": 2640542}, {"name": "Ludzie_radia", "id": 779100}], "successors": []}
+{"name": "Polscy_aktorzy_radiowi", "id": 2590031, "predecessors": [{"name": "Polscy_aktorzy_głosowi", "id": 2640542}, {"name": "Ludzie_radia", "id": 779100}, {"name": "Kategorie", "id": 1382275}], "successors": []}
