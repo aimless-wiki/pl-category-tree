@@ -1,1 +1,1 @@
-{"name": "Znaki_towarowe", "id": 798350, "predecessors": [{"name": "Marketing", "id": 108785}], "successors": [{"name": "Marki_samochodów", "id": 258326}, {"name": "Marki_produktów_spożywczych", "id": 3819524}]}
+{"name": "Znaki_towarowe", "id": 798350, "predecessors": [{"name": "Marketing", "id": 108785}], "successors": [{"name": "Marki_samochodów", "id": 258326}, {"name": "Marki_odzieżowe", "id": 1491677}, {"name": "Marki_produktów_spożywczych", "id": 3819524}]}

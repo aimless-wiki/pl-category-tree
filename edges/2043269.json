@@ -1,1 +1,1 @@
-{"name": "Polskie_komputery", "id": 2043269, "predecessors": [{"name": "Komputery", "id": 149789}, {"name": "Elektronika", "id": 69154}], "successors": []}
+{"name": "Polskie_komputery", "id": 2043269, "predecessors": [{"name": "Komputery", "id": 149789}, {"name": "Elektronika", "id": 69154}, {"name": "Historia_informatyki", "id": 66715}], "successors": []}

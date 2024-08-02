@@ -1,1 +1,1 @@
-{"name": "Sprzęt_kuchenny", "id": 186611, "predecessors": [{"name": "Sprzęt_AGD", "id": 263639}, {"name": "Kategorie", "id": 1382275}], "successors": []}
+{"name": "Sprzęt_kuchenny", "id": 186611, "predecessors": [{"name": "Gospodarstwo_domowe", "id": 641835}, {"name": "Kategorie", "id": 1382275}], "successors": []}
