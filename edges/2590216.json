@@ -1,1 +1,1 @@
-{"name": "Polscy_reżyserzy_telewizyjni", "id": 2590216, "predecessors": [{"name": "Polscy_artyści", "id": 456159}, {"name": "Telewizja", "id": 71788}], "successors": []}
+{"name": "Polscy_reżyserzy_telewizyjni", "id": 2590216, "predecessors": [{"name": "Telewizja_w_Polsce", "id": 2420562}, {"name": "Polscy_artyści", "id": 456159}, {"name": "Telewizja", "id": 71788}], "successors": []}

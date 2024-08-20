@@ -1,1 +1,1 @@
-{"name": "Karty_płatnicze", "id": 124512, "predecessors": [{"name": "Nośniki_danych", "id": 77508}, {"name": "Rozliczenia_bankowe", "id": 527891}, {"name": "Bankowość", "id": 137570}, {"name": "Finanse", "id": 115702}], "successors": []}
+{"name": "Karty_płatnicze", "id": 124512, "predecessors": [{"name": "Bankowość_elektroniczna", "id": 527896}, {"name": "Nośniki_danych", "id": 77508}, {"name": "Rozliczenia_bankowe", "id": 527891}, {"name": "Bankowość", "id": 137570}, {"name": "Finanse", "id": 115702}], "successors": []}
