@@ -1,1 +1,1 @@
-{"name": "Płyty_tektoniczne", "id": 113714, "predecessors": [{"name": "Budowa_Ziemi", "id": 881794}, {"name": "Struktury_geologiczne", "id": 1667138}], "successors": [{"name": "Płyty_tektoniczne_Oceanu_Spokojnego", "id": 3003474}]}
+{"name": "Płyty_tektoniczne", "id": 113714, "predecessors": [{"name": "Struktury_geologiczne", "id": 1667138}, {"name": "Budowa_Ziemi", "id": 881794}], "successors": [{"name": "Płyty_tektoniczne_Oceanu_Spokojnego", "id": 3003474}]}

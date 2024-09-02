@@ -1,1 +1,1 @@
-{"name": "Polskie_programy_telewizyjne_dla_dzieci", "id": 2632974, "predecessors": [{"name": "Dziecko", "id": 3056718}, {"name": "Telewizja", "id": 71788}], "successors": []}
+{"name": "Polskie_programy_telewizyjne_dla_dzieci", "id": 2632974, "predecessors": [{"name": "Polskie_programy_telewizyjne", "id": 3301689}, {"name": "Dziecko", "id": 3056718}], "successors": []}

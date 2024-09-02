@@ -1,1 +1,1 @@
-{"name": "Techniki_malarskie", "id": 460736, "predecessors": [{"name": "Malarstwo", "id": 65718}], "successors": [{"name": "Akwareliści", "id": 4070817}]}
+{"name": "Techniki_malarskie", "id": 460736, "predecessors": [{"name": "Malarstwo", "id": 65718}, {"name": "Sztuka", "id": 65406}], "successors": [{"name": "Akwareliści", "id": 4070817}]}

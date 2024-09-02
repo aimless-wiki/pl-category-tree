@@ -1,1 +1,1 @@
-{"name": "Skały_magmowe", "id": 545529, "predecessors": [{"name": "Wulkanizm", "id": 197075}, {"name": "Procesy_geologiczne", "id": 880674}, {"name": "Geologia", "id": 64588}], "successors": [{"name": "Skały_wulkaniczne", "id": 2186361}]}
+{"name": "Skały_magmowe", "id": 545529, "predecessors": [{"name": "Wulkanizm", "id": 197075}, {"name": "Procesy_geologiczne", "id": 880674}, {"name": "Budowa_Ziemi", "id": 881794}, {"name": "Geologia", "id": 64588}], "successors": [{"name": "Skały_wulkaniczne", "id": 2186361}]}

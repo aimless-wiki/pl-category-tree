@@ -1,1 +1,1 @@
-{"name": "Polskie_telewizyjne_programy_muzyczne", "id": 3610178, "predecessors": [{"name": "Muzyka_w_Polsce", "id": 562411}, {"name": "Muzyka", "id": 63561}, {"name": "Telewizja", "id": 71788}], "successors": []}
+{"name": "Polskie_telewizyjne_programy_muzyczne", "id": 3610178, "predecessors": [{"name": "Muzyka_w_Polsce", "id": 562411}, {"name": "Polskie_programy_telewizyjne", "id": 3301689}, {"name": "Muzyka", "id": 63561}], "successors": []}
