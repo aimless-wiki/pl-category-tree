@@ -1,1 +1,1 @@
-{"name": "Wirusowe_choroby_roślin", "id": 2105797, "predecessors": [{"name": "Choroby_wirusowe", "id": 1015667}, {"name": "Rolnictwo", "id": 69793}], "successors": []}
+{"name": "Wirusowe_choroby_roślin", "id": 2105797, "predecessors": [{"name": "Choroby_wirusowe", "id": 1015667}, {"name": "Botanika", "id": 66304}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Rośliny_chronione", "id": 94021, "predecessors": [{"name": "Ochrona_przyrody", "id": 64501}, {"name": "Taksonomia", "id": 79507}], "successors": []}
+{"name": "Rośliny_chronione", "id": 94021, "predecessors": [{"name": "Botanika", "id": 66304}, {"name": "Ochrona_przyrody", "id": 64501}], "successors": []}

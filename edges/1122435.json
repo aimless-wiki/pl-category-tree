@@ -1,1 +1,1 @@
-{"name": "Programy_oddziałów_terenowych_TVP", "id": 1122435, "predecessors": [{"name": "TVP", "id": 784793}, {"name": "Polskie_programy_telewizyjne", "id": 3301689}], "successors": []}
+{"name": "Programy_oddziałów_terenowych_TVP", "id": 1122435, "predecessors": [{"name": "TVP", "id": 784793}, {"name": "Telewizja", "id": 71788}], "successors": []}

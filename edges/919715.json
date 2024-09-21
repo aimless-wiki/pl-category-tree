@@ -1,1 +1,1 @@
-{"name": "Rośliny_lecznicze", "id": 919715, "predecessors": [{"name": "Rośliny_użytkowe", "id": 1207252}, {"name": "Specjalizacje_i_nauki_pomocnicze_antropologii", "id": 1974294}], "successors": []}
+{"name": "Rośliny_lecznicze", "id": 919715, "predecessors": [{"name": "Rośliny_użytkowe", "id": 1207252}, {"name": "Botanika", "id": 66304}], "successors": []}

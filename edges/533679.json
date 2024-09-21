@@ -1,1 +1,1 @@
-{"name": "Fizjologia_roślin", "id": 533679, "predecessors": [{"name": "Fizjologia", "id": 73833}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Fotosynteza", "id": 1579750}]}
+{"name": "Fizjologia_roślin", "id": 533679, "predecessors": [{"name": "Botanika", "id": 66304}, {"name": "Fizjologia", "id": 73833}], "successors": [{"name": "Fotosynteza", "id": 1579750}]}
