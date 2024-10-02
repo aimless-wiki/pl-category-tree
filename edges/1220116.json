@@ -1,1 +1,1 @@
-{"name": "Metabolizm", "id": 1220116, "predecessors": [{"name": "Biochemia", "id": 66247}, {"name": "Fizjologia", "id": 73833}], "successors": [{"name": "Fotosynteza", "id": 1579750}]}
+{"name": "Metabolizm", "id": 1220116, "predecessors": [{"name": "Biochemia", "id": 66247}, {"name": "Fizjologia", "id": 73833}], "successors": [{"name": "Choroby_metaboliczne", "id": 135287}, {"name": "Fotosynteza", "id": 1579750}]}

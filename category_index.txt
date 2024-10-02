@@ -169,7 +169,6 @@
 69799 Języki_sztuczne
 69840 Postacie_fikcyjne
 69947 Gastroenterologia
-70058 Historia_odkryć_geograficznych
 70059 Żeńskie_imiona_germańskie
 70301 Nagrody_muzyczne
 70337 Mikrobiologia
@@ -586,7 +585,6 @@
 120136 Konsole_gier_wideo
 120232 Polscy_prawnicy
 120235 Polscy_kompozytorzy
-120450 Rowy_oceaniczne
 120660 Kannabinoidy
 120808 System_pocztowy
 120920 Wolnomularstwo
@@ -642,6 +640,7 @@
 125959 Historia_Białorusi
 125995 Zaburzenia_rozwoju
 126100 Kuchnia_francuska
+126101 Kuchnia_hiszpańska
 126105 Kuchnia_ukraińska
 126112 Oleje_roślinne
 126202 Normalizacja
@@ -690,6 +689,7 @@
 129834 Górnictwo
 129899 Polscy_politycy_konserwatywni
 129906 Politycy_Platformy_Obywatelskiej
+130051 Pornografia
 130056 Retoryka
 130063 Buddyzm_tybetański
 130098 Rasy_koni
@@ -1170,7 +1170,6 @@
 182187 Portugalscy_piłkarze
 182189 Duńscy_piłkarze
 182192 Urugwajscy_piłkarze
-182781 Sztuka_starożytna
 182830 Zabytki_starożytnego_Egiptu
 183087 Autostrady_w_Niemczech
 183177 Logistyka
@@ -1367,7 +1366,6 @@
 209348 Historia_książki
 209387 Amerykańscy_astronauci
 209811 Ludzie_związani_z_Sosnowcem
-209862 Kultura_młodzieżowa
 209950 1992_w_grach_komputerowych
 209963 Brytyjscy_pisarze
 210085 Polskie_czasopisma_literackie
@@ -1718,6 +1716,7 @@
 308696 Język_łaciński
 308776 Rumuńscy_trenerzy_piłkarscy
 308890 Paragwajscy_piłkarze
+309544 Sportowe_nagrody_i_plebiscyty
 309549 Piłkarskie_nagrody_i_plebiscyty
 309571 Terminologia_piłki_nożnej
 309726 Samochody_Lamborghini
@@ -5020,6 +5019,7 @@
 773859 Single_Queen
 773893 Single_U2
 773949 Hokeiści_Awangardu_Omsk
+773955 Single_Kasi_Kowalskiej
 774052 Single_Nelly_Furtado
 774072 Instalacje_sanitarne
 774151 Podlasie
@@ -5654,6 +5654,7 @@
 882547 Pilarzowate
 882597 Niemieckie_nazwiska
 882846 Powiat_Schwandorf
+882860 Gry_wydane_przez_LucasArts
 883068 Boginie-matki
 883375 Działacze_polonijni
 884251 Linie_kolejowe_w_Niemczech
@@ -5890,6 +5891,7 @@
 922806 Erystyka
 923308 Ludzie_związani_z_Bochnią
 923643 Osobowości_telewizyjne_związane_z_TVN
+923667 Osobowości_telewizyjne_związane_z_Polsatem
 923689 Sędziowie_Trybunału_Konstytucyjnego
 923794 Żarłaczowate
 924857 Święci_papieże
@@ -6530,6 +6532,7 @@
 1018746 Świątynie_pod_wezwaniem_św._Jana_Ewangelisty_(Apostoła)
 1019207 Polscy_przedstawiciele_nauk_rolniczych
 1019722 Szablony_portalu_Łódź
+1019734 Francuscy_autorzy_komiksów
 1019879 Polscy_autorzy_komiksów
 1019904 Wspólnoty_administracyjne_i_związki_gmin_Badenii-Wirtembergii
 1019977 Hokeiści_New_York_Islanders
@@ -6674,6 +6677,7 @@
 1034223 Świątynie_pod_wezwaniem_Narodzenia_Najświętszej_Maryi_Panny
 1034425 Brytyjscy_muzycy_rockowi
 1034609 Historia_Etiopii
+1034620 Kultura_w_Etiopii
 1034679 Kultura_w_Afryce
 1034779 Eksploracja_Księżyca
 1035340 Świątynie_pod_wezwaniem_Niepokalanego_Poczęcia_Najświętszej_Maryi_Panny
@@ -6982,6 +6986,7 @@
 1076133 Audycje_PR3
 1076395 Lekarze_w_powstaniu_warszawskim
 1076447 Ludzie_związani_z_Ostrowcem_Świętokrzyskim
+1076521 China_Open
 1076685 Analiza_regresji
 1078201 Ludzie_związani_z_Pabianicami
 1078288 Bilbile
@@ -7703,7 +7708,6 @@
 1211477 Wymarłe_gryzonie
 1211907 Piłkarze_Panathinaikosu_AO
 1212036 Litewscy_poeci
-1212359 Kościoły_w_archidiecezji_białostockiej
 1212446 Historia_Lwowa
 1212525 Litewscy_posłowie_do_Parlamentu_Europejskiego
 1212756 Parafie_diecezji_kaliskiej
@@ -7758,6 +7762,7 @@
 1220243 Zamki_Małopolski
 1220280 Amerykańscy_projektanci_gier_komputerowych
 1220282 Japońscy_projektanci_gier_komputerowych
+1220456 Francuscy_rysownicy
 1220717 Norweskie_piłkarki_ręczne
 1220789 Słowaccy_poeci
 1220834 Japońscy_judocy
@@ -7890,7 +7895,6 @@
 1244737 Koszykarze_Śląska_Wrocław
 1244776 Kanclerze_skarbu
 1244816 Dzielnice_i_osiedla_Bydgoszczy
-1244820 Dzielnice_i_osiedla_Torunia
 1245255 Polskie_komedie_romantyczne
 1245409 Litewscy_działacze_społeczni
 1246188 Małżeństwo_osób_tej_samej_płci
@@ -8509,8 +8513,6 @@
 1358478 Rezerwowe_dywizje_piechoty_Imperium_Rosyjskiego
 1358890 Polscy_muzealnicy
 1359222 Sheffield
-1359223 Sport_w_Sheffield
-1359563 Zdezaktualizowane_teorie
 1359753 Filmy_i_seriale_osadzone_w_świecie_Gwiezdnych_wojen
 1360473 Styczeń
 1360474 Luty
@@ -10154,6 +10156,7 @@
 1585959 Piastowie_wrocławscy_i_legnicko-brzescy
 1586072 Stacje_i_przystanki_kolejowe_we_Wrocławiu
 1586100 Stacje_i_przystanki_kolejowe_w_Warszawie
+1586104 Stacje_i_przystanki_kolejowe_w_Krakowie
 1586127 Wojsko_Polskie_II_Rzeczypospolitej_w_Krakowie
 1586304 Absolwenci_Wydziału_Historycznego_Uniwersytetu_Jagiellońskiego
 1586321 Absolwenci_Wydziału_Filozoficzno-Historycznego_Uniwersytetu_Jagiellońskiego
@@ -10216,6 +10219,7 @@
 1593764 Powiat_Lüneburg
 1594002 Mistrzostwa_świata_w_kolarstwie_przełajowym
 1594177 Szablony_nawigacyjne_-_fantastyka
+1594248 Artyści_minimalistyczni
 1594495 Uczestnicy_Copa_América_1959_Argentyna
 1594537 Wojsko_Polskie_II_Rzeczypospolitej_we_Lwowie
 1594659 Wojsko_Polskie_II_Rzeczypospolitej_w_Poznaniu
@@ -10644,6 +10648,7 @@
 1659071 Kuchnia_tajska
 1659165 Ukraińskie_siatkarki
 1659464 Amerykańskie_biathlonistki
+1659512 Kontralty
 1659982 Obrazy_w_Starej_Pinakotece_w_Monachium
 1660266 Polscy_urolodzy
 1660277 Polscy_anestezjolodzy
@@ -11179,6 +11184,7 @@
 1725068 Drugi_poziom_rozgrywek_piłkarskich
 1725132 Trzeci_poziom_rozgrywek_piłkarskich_w_Polsce
 1725134 Czwarty_poziom_rozgrywek_piłkarskich_w_Polsce
+1725165 Pierwszy_poziom_rozgrywek_piłkarskich_w_Andorze
 1725183 Pierwszy_poziom_rozgrywek_piłkarskich_w_Anglii
 1725258 Ziemia_wieluńska
 1725337 Wykładowcy_Uniwersytetu_Kardynała_Stefana_Wyszyńskiego
@@ -11886,7 +11892,6 @@
 1809534 Reprezentanci_Włoch_w_piłce_nożnej
 1809701 Pierwszy_poziom_rozgrywek_piłkarskich_w_Islandii
 1810419 Nieistniejące_polskojęzyczne_stacje_telewizyjne
-1810847 Kościoły_obronne_w_Polsce
 1811166 Polskojęzyczne_stacje_telewizyjne
 1811281 Wsie_w_hrabstwie_Somerset
 1811282 Wsie_w_Kornwalii
@@ -12555,6 +12560,7 @@
 1886379 Rejon_smorgoński
 1886434 Rejon_oszmiański
 1886442 Rejon_grodzieński
+1886501 Rejon_ostrowiecki
 1886626 Szwajcarscy_narciarze_dowolni
 1886646 Gminy_w_Estremadurze
 1886748 Gminy_na_Balearach
@@ -14868,6 +14874,7 @@
 2264474 Muzea_regionalne_w_Polsce
 2264865 Skanseny_etnograficzne_w_Polsce
 2264903 Polacy_odznaczeni_Krzyżem_Pro_Ecclesia_et_Pontifice
+2264979 Muzea_narodowe
 2265073 Doktorzy_honoris_causa_Uniwersytetu_Przyrodniczego_we_Wrocławiu
 2265311 Założyciele_zakonów_katolickich
 2265434 Odznaczeni_Orderem_Świętego_Skarbu
@@ -14928,7 +14935,6 @@
 2268865 Filmy_wytwórni_Spyglass_Media_Group
 2269337 Piłkarze_Adanasporu
 2269467 Filmy_o_tematyce_bokserskiej
-2269515 2013_w_sporcie
 2269736 Praca_socjalna
 2270178 User_projekt_Wiki_Lubi_Zabytki
 2270545 Wsie_w_hrabstwie_South_Yorkshire
@@ -14977,7 +14983,6 @@
 2279126 Reprezentanci_Belize_w_piłce_nożnej
 2279143 Actiones
 2279583 Res
-2279841 2012_w_sporcie
 2280085 Dyskusje_zakończone_usunięciem_artykułu_–_kwiecień_2011
 2280086 Członkowie_Kolegium_IPN_i_Rady_IPN
 2280090 Dyskusje_zakończone_pozostawieniem_artykułu_–_kwiecień_2011
@@ -15605,7 +15610,6 @@
 2395945 Słowaccy_olimpijczycy
 2395947 Czescy_olimpijczycy
 2396123 Zbory_okręgu_zachodnio-wielkopolskiego_Kościoła_Zielonoświątkowego_w_RP
-2396171 Libańscy_ministrowie
 2396277 Albumy_Barbry_Streisand
 2396407 Gry_komputerowe_wyprodukowane_w_Szwecji
 2396413 Gry_komputerowe_wyprodukowane_w_Japonii
@@ -15680,7 +15684,6 @@
 2405923 Mikroregiony_w_stanie_Bahia
 2405983 Utwory_kryminalne_Agathy_Christie
 2406022 2015_w_sportach_zimowych
-2406026 2015_w_sporcie
 2406031 Wybory_w_2012
 2406035 Koordynacja_wikiprac_-_archiwum
 2406102 Odznaczeni_Medalem_„Za_pracowniczą_wybitność”
@@ -15697,7 +15700,6 @@
 2406470 Polscy_trenerzy_kolarstwa
 2407033 Odznaczeni_Orderem_Świętego_Sylwestra
 2407109 2014_w_piłce_nożnej
-2407110 2014_w_sporcie
 2407664 Japońscy_olimpijczycy
 2407807 Czasopisma_kobiece
 2407839 Organizacje_terrorystyczne_według_Departamentu_Stanu_USA
@@ -15943,6 +15945,7 @@
 2438862 Piosenki_angloamerykańskie
 2439044 Deputowani_do_Izby_Reprezentantów_Cypru
 2439946 Stacje_i_przystanki_kolejowe_w_Kazachstanie
+2439967 Absolwenci_Szkoły_Głównej_Służby_Pożarniczej
 2441062 Single_numer_jeden_w_Irlandii
 2441080 Single_numer_jeden_w_Szwecji
 2441134 Holenderscy_olimpijczycy
@@ -16601,6 +16604,7 @@
 2537780 Jeziora_w_powiecie_giżyckim
 2537838 Odznaczeni_Orderem_Świętych_Maurycego_i_Łazarza
 2537850 Miasta_w_stanie_Parana
+2537917 Społeczeństwo_informacyjne
 2544138 Rosyjscy_kompozytorzy_muzyki_filmowej
 2544181 Hokeiści_Kristałłu_Elektrostal
 2544256 2007_w_rugby_union
@@ -17065,6 +17069,7 @@
 2606160 Włoscy_aktorzy_filmowi
 2606162 Włoscy_reżyserzy_filmowi
 2606242 Niemieccy_aktorzy_filmowi
+2606286 Malijscy_olimpijczycy
 2606305 Świdrowiec
 2606335 Niemieccy_reżyserzy_teatralni
 2606379 Listy_portów_lotniczych
@@ -17128,7 +17133,6 @@
 2620063 Hokeiści_Mieczeła_Czelabińsk
 2620486 Semiotycy
 2620560 Zabytki_nieruchome_w_Radomiu
-2620786 2017_w_sporcie
 2621171 Chloropochodne_węglowodorów
 2621577 Archiwa
 2621716 Single_Gackta
@@ -17211,6 +17215,7 @@
 2631746 Koszykarki_Katarzynek_Toruń
 2632317 Czechosłowaccy_zapaśnicy
 2632911 Szablony_flag_-_szablony_podziału_Kolumbii
+2632918 Programy_telewizji_BBC
 2632934 Telewizyjne_programy_informacyjne
 2632953 Telewizyjne_programy_popularnonaukowe
 2632960 Telewizyjne_programy_publicystyczne
@@ -17474,7 +17479,6 @@
 2704813 Przedsiębiorstwa_mediowe
 2704838 Polskie_przedsiębiorstwa_mediowe
 2705799 Szablony_nawigacyjne_-_piłkarskie_nagrody_i_plebiscyty
-2706187 2016_w_sporcie
 2706202 Zbrodnie_komunistyczne
 2706221 Szablony_flag_-_przekierowania_IOC
 2706478 Albumy_wyprodukowane_przez_The_Returners
@@ -17634,7 +17638,6 @@
 2732539 2014_w_Europie
 2732542 2017_w_Europie
 2732544 2018_w_Europie
-2732545 2018_w_sporcie
 2732640 Agoristenidae
 2732755 1992_w_Europie
 2732784 1993_w_Europie
@@ -17840,6 +17843,7 @@
 2759189 Trenerzy_piłkarzy_Dynama_Mińsk
 2759270 Baseballiści_Baltimore_Orioles
 2759275 Baseballiści_Kansas_City_Royals
+2759567 Wykładowcy_Konserwatorium_Lwowskiego
 2759598 Absolwenci_Konserwatorium_Lwowskiego
 2760250 Trenerzy_piłkarzy_Fluminense_FC
 2760291 Trenerzy_piłkarzy_Lewskiego_Sofia
@@ -18330,7 +18334,6 @@
 2823931 Apologeci_chrześcijańscy
 2823975 Porty_lotnicze_na_Filipinach
 2823986 Porty_lotnicze_we_Francji
-2823989 Dyskusje_nad_usunięciem_artykułu_zakończone_bez_konsensusu_–_grudzień_2012
 2823990 Dyskusje_zakończone_pozostawieniem_artykułu_–_grudzień_2012
 2823991 Dyskusje_zakończone_usunięciem_artykułu_–_grudzień_2012
 2823993 Dyskusje_zakończone_pozostawieniem_biografii_–_grudzień_2012
@@ -18458,6 +18461,7 @@
 2837085 Polskie_wokalistki
 2837097 Polskie_śpiewaczki_klasyczne
 2837099 Śpiewaczki_operowe
+2837150 Śpiewacy_operowi
 2837171 Ukraińskie_piosenkarki
 2837188 Włoskie_śpiewaczki_operowe
 2837218 Amerykańskie_filmy_z_1952_roku
@@ -19520,7 +19524,6 @@
 3006288 Piłkarze_PEC_Zwolle
 3006308 Posłowie_na_sejm_konwokacyjny_1696
 3006649 Patroni_jednostek_ludowego_Wojska_Polskiego
-3007235 Uczestnicy_Letnich_Igrzysk_Olimpijskich_1984
 3007430 Powiat_Sopron
 3007894 Zespoły_muzyczne_z_Los_Angeles
 3007958 Polscy_krytycy_literaccy
@@ -19727,6 +19730,7 @@
 3045704 Amerykańskie_przedsiębiorstwa_elektroniczne
 3045805 Absolwenci_Uniwersytetu_Czerniowieckiego
 3046635 Gminy_w_prowincji_Geldria
+3046689 Absolwenci_Uniwersytetu_Marcina_Lutra_w_Halle_i_Wittenberdze
 3046786 Kierowcy_azjatyckiej_serii_GP2
 3046816 Francuscy_kierowcy_Europejskiego_Pucharu_Formuły_Renault_2.0
 3046817 Brytyjscy_kierowcy_Europejskiego_Pucharu_Formuły_Renault_2.0
@@ -20879,6 +20883,7 @@
 3172107 Budynki_w_Polsce_oddane_do_użytku_w_1995
 3172127 Budynki_w_Polsce_oddane_do_użytku_w_1994
 3172179 Członkowie_Zrzeszenia_Studentów_Polskich
+3172304 Historyczne_huty_w_Polsce
 3173133 Amerykańskie_zespoły_metalcore’owe
 3173140 Wykładowcy_Papieskiego_Uniwersytetu_Gregoriańskiego_w_Rzymie
 3173158 Wilda
@@ -21446,6 +21451,7 @@
 3315325 Partie_i_ugrupowania_II_Rzeczypospolitej
 3315385 Polscy_medioznawcy
 3315604 Piłkarze_Defensa_y_Justicia
+3315679 Ludzie_związani_z_Montrealem
 3315759 Mniejszość_żydowska_w_II_Rzeczypospolitej
 3315778 Polscy_cadykowie_chasydzcy
 3316183 Rządy_II_Rzeczypospolitej
@@ -21589,6 +21595,7 @@
 3330757 Dyskusje_zakończone_usunięciem_biografii_–_styczeń_2015
 3330760 Dyskusje_zakończone_usunięciem_strony_technicznej_–_styczeń_2015
 3330799 Funkcjonariusze_Ministerstwa_Spraw_Wewnętrznych_Polski_Ludowej
+3330877 Absolwenci_Uniwersytetu_Amerykańskiego_w_Bejrucie
 3330993 Członkowie_Oficerskiego_Trybunału_Orzekającego
 3331314 Odznaczeni_Brązowym_Medalem_Za_Zasługi_dla_Pożarnictwa
 3331318 Odznaczeni_Srebrnym_Medalem_Za_Zasługi_dla_Pożarnictwa
@@ -21646,6 +21653,7 @@
 3338505 Silniki_gier_komputerowych
 3338766 Filmy_kręcone_w_Los_Angeles
 3338899 Transmisja_danych
+3338923 Prezesi_sądów_okręgowych_II_Rzeczypospolitej
 3338942 Niemieccy_pejzażyści
 3338965 Sędziowie_II_Rzeczypospolitej
 3338974 Austriaccy_zapaśnicy
@@ -22014,6 +22022,7 @@
 3464938 Mieszkańcy_getta_warszawskiego
 3464942 Odznaczeni_Orderem_Świętego_Józefa_(Toskania)
 3464990 Mieszkańcy_getta_łódzkiego
+3465454 Ofiary_zabójstw_w_Polsce
 3465455 Ofiary_zabójstw_w_II_Rzeczypospolitej
 3465539 Siatkarze_Sir_Safety_Perugia
 3465702 Dyskusje_zakończone_usunięciem_artykułu_–_maj_2015
@@ -22490,6 +22499,7 @@
 3540029 Rumunia_w_XX_wieku
 3540135 Nigeryjscy_zapaśnicy
 3540166 Kameruńscy_zapaśnicy
+3540301 Skazani_za_przestępstwa_seksualne
 3540504 2016_we_Włoszech
 3540600 Południowoafrykańscy_zapaśnicy
 3540635 2016_w_Stanach_Zjednoczonych
@@ -23404,6 +23414,7 @@
 3679110 Sanitariuszki_Armii_Krajowej
 3679371 Architektura_I_Rzeczypospolitej_(województwo_krakowskie)
 3679415 Rzecznicy_prasowi_w_Polsce
+3679416 Rzecznicy_prasowi_polskich_ministerstw
 3679537 Obiekty_astronomiczne_odkryte_w_1996
 3679544 Seriale_telewizyjne_zakończone_w_2009
 3679547 Architektura_I_Rzeczypospolitej_(województwo_poznańskie)
@@ -24835,6 +24846,7 @@
 3895189 Ludzie_urodzeni_w_Windhuku
 3895192 Ludzie_urodzeni_we_Freetown
 3895199 Ludzie_urodzeni_w_Monrovii
+3895206 Ludzie_urodzeni_w_Kigali
 3895210 Ludzie_urodzeni_w_Bużumburze
 3895229 Ludzie_urodzeni_w_Wagadugu
 3895253 Ludzie_urodzeni_w_Bandżulu
@@ -25142,6 +25154,7 @@
 3939798 Członkowie_rad_powiatowych_II_Rzeczypospolitej
 3939825 Członkowie_wydziałów_powiatowych_II_Rzeczypospolitej
 3939836 Członkowie_sejmików_powiatowych_II_Rzeczypospolitej
+3940374 Królowie_strzelców_greckiej_ekstraklasy_piłkarskiej
 3940640 Ludzie_urodzeni_w_Starej_Zagorze
 3940871 Okręty_zbudowane_w_Ateliers_et_Chantiers_de_la_Loire
 3941004 Komisariaty_Straży_Celnej_II_Rzeczypospolitej
@@ -25561,6 +25574,7 @@
 3985361 Kaplice_prawosławne_w_województwie_podlaskim
 3985391 Placówki_Straży_Celnej_II_Rzeczypospolitej
 3985513 Kaplice_na_Malcie
+3985792 Choroby_ziemniaków
 3985809 Wszy_i_wszoły_Azji
 3985811 Wszy_i_wszoły_Afryki
 3985814 Wszy_i_wszoły_Ameryki_Północnej
@@ -26433,7 +26447,6 @@
 4210317 Cudzoziemcy_odznaczeni_Krzyżem_Oficerskim_Orderu_Odrodzenia_Polski_(1944–1989)
 4210318 Cudzoziemcy_odznaczeni_Orderem_Krzyża_Grunwaldu_III_klasy
 4210431 Cudzoziemcy_odznaczeni_Orderem_Krzyża_Grunwaldu_II_klasy
-4210436 Seriale_animowane_emitowane_w_Telewizji_Polsat
 4210758 Filmy_fantastyczne_z_2005_roku
 4211406 Piłkarze_CD_Plaza_Amador
 4211473 Laureaci_Nagrody_Fundacji_Muzycznej_Léonie_Sonning
@@ -26603,6 +26616,7 @@
 4263585 Oficerowie_Wojska_Polskiego_zamordowani_z_Ukraińskiej_Listy_Katyńskiej
 4263631 Sędziowie_sądów_grodzkich_II_Rzeczypospolitej
 4263790 Ludzie_urodzeni_w_Batumi
+4264529 Ryby_Ameryki_Północnej
 4264532 Ludzie_urodzeni_w_Pawii
 4264993 Sezon_2018/2019_w_skokach_narciarskich
 4264994 2019_w_sportach_zimowych
@@ -27732,7 +27746,6 @@
 4610603 Francuscy_urzędnicy
 4610665 Miejscowości_w_prowincji_Aragacotn
 4611032 Miejscowości_w_prowincji_Szirak
-4611284 Clausiidae
 4611511 Polskie_eskadry_lotnicze_z_okresu_kampanii_wrześniowej
 4611656 Ludzie_urodzeni_w_Wyborgu
 4612048 Ochotnica_Górna
@@ -27785,6 +27798,7 @@
 4631749 Wsie_szlacheckie_I_Rzeczypospolitej_(województwo_łęczyckie)
 4632695 Medaliści_Mistrzostw_Świata_w_Lekkoatletyce_2019
 4632696 Mistrzostwa_Świata_w_Lekkoatletyce_2019
+4632887 2019_w_snookerze
 4632913 Wybory_prezydenckie_w_Stanach_Zjednoczonych_według_roku
 4633404 Jaskinie_Krakowa
 4633636 Gatunki_bliskie_zagrożenia
@@ -28914,6 +28928,7 @@
 4968242 Oficerowie_1_Pułku_Szwoleżerów_Józefa_Piłsudskiego
 4968585 Miejscowości_w_rejonie_rylskim
 4968623 Osiedla_wiejskie_w_obwodzie_kurskim
+4968672 Polscy_inżynierowie_automatycy
 4969147 Wsie_w_okręgu_Braiła
 4969175 Posłowie_na_sejm_nadzwyczajny_1635
 4969287 Centrum_(Siemianowice_Śląskie)
@@ -29183,6 +29198,7 @@
 5039072 Sygnatariusze_paktów_konwentów_Władysława_IV_Wazy
 5039296 Pająki_Oceanii
 5040031 Pająki_Nowej_Zelandii
+5040501 Odznaczeni_Odznaką_Honorową_Sybiraka
 5041699 Uczestnicy_wojny_francusko-austriackiej
 5041936 Odznaczeni_Srebrnym_Krzyżem_Za_Zasługi_dla_ZHP
 5041944 Odznaczeni_Złotym_Krzyżem_Za_Zasługi_dla_ZHP
@@ -29708,6 +29724,7 @@
 5178624 Pergidae
 5179122 Ludzie_urodzeni_w_Birmingham_(Alabama)
 5179164 Ludzie_urodzeni_w_Cambridge_(Massachusetts)
+5179205 Ludzie_urodzeni_w_Garmisch-Partenkirchen
 5180029 Członkowie_Sekcji_Turystycznej_Towarzystwa_Tatrzańskiego
 5181231 Strażnice_Górnośląskiej_Brygady_WOP
 5181453 Ptaki_wysp_subantarktycznych
@@ -29828,6 +29845,7 @@
 5219829 Szablony_cytowania_bazujące_na_uniwersalnym
 5220005 Szablony_nawigacyjne_-_lekkoatletyka_w_Japonii
 5220048 Artykuły_powstałe_w_ramach_akcji_(Nie)znane_kobiety_Wikipedii_2022
+5220439 Statki_i_okręty_zatopione_ogniem_artylerii
 5220468 Niemieckie_okręty_podwodne_zatopione_bombami_głębinowymi
 5220924 Krążowniki_traktatowe
 5221436 Państwa_uczestniczące_w_Zimowych_Igrzyskach_Olimpijskich_2022
@@ -30461,7 +30479,6 @@
 5366289 Dyskusje_zakończone_usunięciem_artykułu_–_listopad_2022
 5366290 Dyskusje_zakończone_pozostawieniem_artykułu_–_listopad_2022
 5366292 Dyskusje_zakończone_usunięciem_biografii_–_listopad_2022
-5366306 Mangi_wydane_w_Polsce
 5366318 Wykładowcy_Społecznej_Akademii_Nauk_w_Łodzi
 5366528 Zespoły_muzyczne_związane_z_Gdańskiem
 5366543 Wsie_w_rejonie_janowskim_(Białoruś)
@@ -30488,6 +30505,7 @@
 5369709 Filmy_kręcone_w_Montrealu
 5371118 Albumy_koncertowe_Deep_Purple
 5371452 Artykuły_z_Wikiolimpiady_2022_o_kraju_Niemcy
+5371464 Filmy_kręcone_w_Kopenhadze
 5372261 Absolwenci_University_of_Washington
 5373495 Brazylijscy_piłkarze_na_igrzyskach_olimpijskich
 5374240 Odznaczeni_Odznaką_Honorową_Wrocławia
@@ -30867,6 +30885,7 @@
 5429199 Mistrzowie_Świata_U-17_w_Piłce_Nożnej
 5429254 Mistrzowie_Świata_U-20_w_Piłce_Nożnej
 5429263 Uczestnicy_Mistrzostw_Świata_U-20_w_Piłce_Nożnej_2005
+5429265 Uczestnicy_Mistrzostw_Świata_U-17_w_Piłce_Nożnej_2005
 5429319 Albumy_wyprodukowane_przez_Davida_Singletona
 5429536 Biegacze_narciarscy_na_Zimowych_Igrzyskach_Olimpijskich_1924
 5429628 Uczestnicy_Mistrzostw_Ameryki_Południowej_U-20_w_Piłce_Nożnej_2011
@@ -30982,6 +31001,7 @@
 5437926 Uczestnicy_Mistrzostw_Świata_U-20_w_Piłce_Nożnej_2003
 5437994 Mistrzowie_Ameryki_Południowej_U-20_w_Piłce_Nożnej
 5438104 Mosty_i_wiadukty_drogowe_w_Niemczech
+5438106 Uczestnicy_Mistrzostw_Ameryki_Południowej_U-20_w_Piłce_Nożnej_2007
 5438211 Mistrzowie_Ameryki_Południowej_U-17_w_Piłce_Nożnej
 5438272 Uczestnicy_Pucharu_Narodów_Afryki_1974
 5438450 Laureaci_Nagrody_„Problemów”
@@ -31108,7 +31128,6 @@
 5470511 Biegacze_narciarscy_na_Zimowych_Igrzyskach_Olimpijskich_1928
 5470604 Odznaczeni_Medalem_„Za_zasługi_bojowe”
 5470667 Skoczkowie_narciarscy_na_Zimowych_Igrzyskach_Olimpijskich_1928
-5470991 Filmy_animowane_z_2019_roku
 5471274 Amerykańscy_piłkarze_na_igrzyskach_olimpijskich
 5471278 Amerykańscy_olimpijczycy_(Los_Angeles_1984)
 5471280 Piłkarze_nożni_na_Letnich_Igrzyskach_Olimpijskich_1984
@@ -31116,6 +31135,7 @@
 5471878 Posłowie_na_Sejm_Rzeczypospolitej_Polskiej_II_kadencji_(1993–1997)
 5472775 Posłowie_na_Sejm_III_Rzeczypospolitej_Polskiej
 5472949 2024_w_piłce_siatkowej
+5473031 2024_we_Włoszech
 5473332 Żeglarze_sportowi_na_Letnich_Igrzyskach_Olimpijskich_1952
 5473388 Departament_Meta_(Kolumbia)
 5473598 Zapaśnicy_na_Letnich_Igrzyskach_Olimpijskich_1936
@@ -31131,7 +31151,6 @@
 5475436 Strzelcy_na_Letnich_Igrzyskach_Olimpijskich_1976
 5475461 Strzelcy_na_Letnich_Igrzyskach_Olimpijskich_1980
 5476069 Absolwenci_szkół_średnich_w_Prudniku
-5476868 Filmy_animowane_z_2017_roku
 5477109 Departament_Huila
 5477377 Pływacy_na_Letnich_Igrzyskach_Olimpijskich_1932
 5477503 2024_w_polskim_sporcie
@@ -31592,6 +31611,7 @@
 5572160 Gminy_w_prowincji_Cuenca
 5572164 Gminy_w_prowincji_Toledo
 5572281 Kopalnie_powstałe_w_XX_wieku
+5573054 Wsie_w_powiecie_prudnickim_(1818–1954)
 5573060 Wsie_w_powiecie_krapkowickim
 5573107 Państwa_uczestniczące_w_Mistrzostwach_Świata_w_Lekkoatletyce_2023
 5573503 Reprezentanci_Polski_U-21_w_piłce_nożnej
@@ -31821,6 +31841,7 @@
 5631857 Artykuły_z_CEE_Spring_2024_–_Rumunia_i_Mołdawia
 5631859 Artykuły_z_CEE_Spring_2024_–_Słowacja
 5631864 Artykuły_z_CEE_Spring_2024_–_Ukraina
+5631905 Strzelcy_na_Letnich_Igrzyskach_Olimpijskich_1988
 5632221 Odznaczeni_północnomacedońskimi_odznaczeniami
 5632245 Przyrządy_pomiarów_geometrycznych
 5632925 Mongolscy_zapaśnicy_na_igrzyskach_olimpijskich
@@ -31829,6 +31850,7 @@
 5633460 Stara_Praga
 5633971 Biegacze_narciarscy_na_Zimowych_Igrzyskach_Olimpijskich_1984
 5634031 Hokeiści_na_Zimowych_Igrzyskach_Olimpijskich_1980
+5634036 Hokeiści_na_Zimowych_Igrzyskach_Olimpijskich_1988
 5634089 Hokeiści_na_Zimowych_Igrzyskach_Olimpijskich_1984
 5634542 Łyżwiarze_szybcy_na_Zimowych_Igrzyskach_Olimpijskich_1984
 5634543 Łyżwiarze_szybcy_na_Zimowych_Igrzyskach_Olimpijskich_1988
@@ -31860,6 +31882,7 @@
 5641508 Absolwenci_i_studenci_Uniwersytetu_im._Radbouda_w_Nijmegen
 5642024 Amerykańska_broń_lotnicza
 5642782 Historia_Santiago_(Chile)
+5644527 Piłkarze_ręczni_na_Letnich_Igrzyskach_Olimpijskich_1984
 5644864 Koszykarze_na_Letnich_Igrzyskach_Olimpijskich_1984
 5645347 Artykuły_w_obszarze_zainteresowań_Projektu_Botanika
 5645807 Zdobywcy_Pucharu_Interkontynentalnego_w_piłce_nożnej
@@ -31927,6 +31950,7 @@
 5678332 Wsie_w_rejonie_totiemskim
 5678924 Mangi_akcji
 5678932 Mangi_przygodowe
+5678934 Mangi_z_gatunku_dreszczowiec
 5678935 Mangi_z_gatunku_okruchy_życia
 5678936 Mangi_dramatyczne
 5680011 Artykuły_eksponowane_w_Czy_wiesz…_-_2024-06
@@ -31942,11 +31966,13 @@
 5682136 Brytyjscy_sędziowie
 5682251 Mechelen_(okręg)
 5682317 Hokeiści_na_trawie_na_Letnich_Igrzyskach_Olimpijskich_1980
+5683378 Pływacy_na_Letnich_Igrzyskach_Olimpijskich_1984
 5684228 Reprezentanci_Słowenii_U-21_w_piłce_nożnej
 5684401 Siatkarze_na_Letnich_Igrzyskach_Olimpijskich_1984
 5684532 Włoscy_sędziowie
 5684570 Szermierze_na_Letnich_Igrzyskach_Olimpijskich_1988
 5684726 Amerykańscy_sędziowie
+5685125 Szermierze_na_Letnich_Igrzyskach_Olimpijskich_1992
 5685373 Turnhout_(okręg)
 5685962 Kajakarze_na_Letnich_Igrzyskach_Olimpijskich_1988
 5686375 Deputowani_50._kadencji_Bułgarskiego_Zgromadzenia_Narodowego
@@ -31961,10 +31987,17 @@
 5688426 Aalst_(okręg)
 5689612 Gandawa_(okręg)
 5689702 Oudenaarde_(okręg)
+5690164 Skoczkowie_narciarscy_na_Zimowych_Igrzyskach_Olimpijskich_1988
 5690320 Pelodryadinae
+5690353 Kolarze_na_Letnich_Igrzyskach_Olimpijskich_1988
+5690585 Brugia_(okręg)
+5690986 Diksmuide_(okręg)
+5691822 Łyżwiarze_szybcy_na_Zimowych_Igrzyskach_Olimpijskich_1992
 5692114 Młyny_w_województwie_łódzkim
 5692342 Piłkarze_nożni_na_Letnich_Igrzyskach_Olimpijskich_2024
 5692358 Uczestnicy_Letnich_Igrzysk_Olimpijskich_2024
+5692955 Łyżwiarze_figurowi_na_Zimowych_Igrzyskach_Olimpijskich_1988
+5693892 Narciarze_alpejscy_na_Zimowych_Igrzyskach_Olimpijskich_1992
 5694248 Zabytkowe_kościoły_w_Norwegii
 5694259 Zabytkowe_kościoły_w_Czechach
 5694264 Zabytkowe_kościoły_we_Francji
@@ -32053,6 +32086,7 @@
 5714756 Polskie_jednostki_organizacyjne_wojska_utworzone_w_1831
 5714780 Austro-węgierskie_jednostki_organizacyjne_wojska_utworzone_w_1883
 5714784 Austro-węgierskie_jednostki_organizacyjne_wojska_utworzone_w_1886
+5714852 Kolarze_na_Letnich_Igrzyskach_Olimpijskich_2024
 5715009 Jeziora_na_Pojezierzu_Łagowskim
 5715209 Jeziora_na_Równinie_Torzymskiej
 5715462 Polskie_jednostki_organizacyjne_wojska_utworzone_w_1951
@@ -32096,6 +32130,7 @@
 5723457 Tenisiści_ziemni_na_Letnich_Igrzyskach_Olimpijskich_2024
 5723509 Polskie_jednostki_organizacyjne_wojska_utworzone_w_1946
 5723511 Amerykańscy_muzycy_bebopowi
+5724093 Narciarze_alpejscy_na_Zimowych_Igrzyskach_Olimpijskich_1994
 5724166 Gry_komputerowe_stworzone_na_podstawie_filmów
 5724607 Amerykańskie_sieci_hotelowe
 5725555 Powiaty_w_prefekturze_Hokkaido
@@ -32144,13 +32179,38 @@
 5731016 Miesiąc_Wyróżnionego_Artykułu/hasła_2024
 5731087 Artykuły_eksponowane_w_Czy_wiesz…_-_2024-09
 5731092 Dyskusje_zakończone_usunięciem_artykułu_–_wrzesień_2024
+5731093 Dyskusje_zakończone_pozostawieniem_artykułu_–_wrzesień_2024
 5731112 Polskie_jednostki_organizacyjne_wojska_utworzone_w_1963
 5731114 Polskie_jednostki_organizacyjne_wojska_utworzone_w_1967
 5731332 Rękopisy_w_Bibliotece_Bodlejańskiej
 5731457 Amerykańscy_socjaliści
+5732450 Stopnie_generalskie_i_admiralskie
 5732674 Zdobywcy_Leagues_Cup
 5734498 Zapaśnicy_na_Letnich_Igrzyskach_Olimpijskich_2024
 5736750 Wsie_w_gminie_Bitola
 5736769 Wsie_w_gminie_Kriwa_Pałanka
 5737477 Artykuły_przetłumaczone_z_języka_albańskiego
 5738339 Judocy_na_Letnich_Igrzyskach_Olimpijskich_2024
+5738341 Judocy_na_Letnich_Igrzyskach_Olimpijskich_2020
+5740043 Laureaci_Dorocznej_Nagrody_Związku_Kompozytorów_Polskich
+5741769 Programy_Polsatu
+5742261 Mangi_z_2021_roku
+5742266 Mangi_z_2020_roku
+5742267 Mangi_z_2018_roku
+5742271 Mangi_z_2009_roku
+5742274 Mangi_z_2013_roku
+5742275 Mangi_z_2016_roku
+5742278 Mangi_z_2012_roku
+5742280 Mangi_z_2019_roku
+5742282 Mangi_z_2007_roku
+5742284 Mangi_z_2014_roku
+5742290 Mangi_z_2006_roku
+5742295 Mangi_z_2017_roku
+5742301 Mangi_z_2011_roku
+5742332 Mangi_z_2008_roku
+5742334 Mangi_z_2015_roku
+5742341 Mangi_z_2003_roku
+5742346 Mangi_z_2005_roku
+5742750 Dawne_gminy_we_Flandrii_Zachodniej
+5742865 Q_School
+5742952 Snooker_w_Sheffield
