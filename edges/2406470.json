@@ -1,1 +1,1 @@
-{"name": "Polscy_trenerzy_kolarstwa", "id": 2406470, "predecessors": [{"name": "Transport_drogowy_w_Polsce", "id": 196575}, {"name": "Kategorie", "id": 1382275}], "successors": []}
+{"name": "Polscy_trenerzy_kolarstwa", "id": 2406470, "predecessors": [{"name": "Polscy_trenerzy", "id": 450122}, {"name": "Transport_drogowy_w_Polsce", "id": 196575}], "successors": []}

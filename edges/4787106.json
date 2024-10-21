@@ -1,1 +1,1 @@
-{"name": "Ofiary_zamachów", "id": 4787106, "predecessors": [{"name": "Ofiary_zabójstw", "id": 3584617}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Zamordowani_szefowie_rządów", "id": 2364115}, {"name": "Zamordowani_monarchowie", "id": 3523434}]}
+{"name": "Ofiary_zamachów", "id": 4787106, "predecessors": [{"name": "Kategorie", "id": 1382275}, {"name": "Śmierć", "id": 841487}], "successors": [{"name": "Zamordowani_szefowie_rządów", "id": 2364115}, {"name": "Zamordowani_monarchowie", "id": 3523434}]}

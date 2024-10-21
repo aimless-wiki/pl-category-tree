@@ -1,1 +1,1 @@
-{"name": "Marki_produktów_spożywczych", "id": 3819524, "predecessors": [{"name": "Znaki_towarowe", "id": 798350}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Marki_słodyczy", "id": 3819539}]}
+{"name": "Marki_produktów_spożywczych", "id": 3819524, "predecessors": [{"name": "Znaki_towarowe", "id": 798350}, {"name": "Kultura_odżywiania", "id": 3462139}], "successors": [{"name": "Marki_słodyczy", "id": 3819539}]}

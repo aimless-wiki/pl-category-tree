@@ -1,1 +1,1 @@
-{"name": "Prorektorzy_uczelni_w_Polsce", "id": 3681538, "predecessors": [{"name": "Wykładowcy_uczelni_w_Polsce", "id": 2857832}, {"name": "Oświata", "id": 69155}], "successors": []}
+{"name": "Prorektorzy_uczelni_w_Polsce", "id": 3681538, "predecessors": [{"name": "Wykładowcy_uczelni_w_Polsce", "id": 2857832}, {"name": "Oświata", "id": 69155}], "successors": [{"name": "Prorektorzy_Uniwersytetu_Warszawskiego", "id": 5210328}]}

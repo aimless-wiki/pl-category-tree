@@ -1,1 +1,1 @@
-{"name": "Posiłki", "id": 1111383, "predecessors": [{"name": "Zwyczaje", "id": 124805}, {"name": "Kategorie", "id": 1382275}], "successors": []}
+{"name": "Posiłki", "id": 1111383, "predecessors": [{"name": "Kultura_odżywiania", "id": 3462139}, {"name": "Zwyczaje", "id": 124805}], "successors": []}

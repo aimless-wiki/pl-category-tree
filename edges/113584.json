@@ -1,1 +1,1 @@
-{"name": "Onkologia", "id": 113584, "predecessors": [{"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Choroby_nowotworowe", "id": 109207}, {"name": "Cytostatyki", "id": 1166332}]}
+{"name": "Onkologia", "id": 113584, "predecessors": [{"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Choroby_nowotworowe", "id": 109207}, {"name": "Cytostatyki", "id": 1166332}, {"name": "Karcynogeny", "id": 1396036}]}

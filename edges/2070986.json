@@ -1,1 +1,1 @@
-{"name": "Fast_foody", "id": 2070986, "predecessors": [{"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Sieci_fast_food", "id": 531212}]}
+{"name": "Fast_foody", "id": 2070986, "predecessors": [{"name": "Kultura_odżywiania", "id": 3462139}], "successors": [{"name": "Sieci_fast_food", "id": 531212}]}

@@ -1,1 +1,1 @@
-{"name": "Rośliny_owocowe", "id": 1207315, "predecessors": [{"name": "Sadownictwo", "id": 655178}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Rośliny_owocowe_tropikalne", "id": 4676757}, {"name": "Szczepy_winorośli", "id": 863486}]}
+{"name": "Rośliny_owocowe", "id": 1207315, "predecessors": [{"name": "Sadownictwo", "id": 655178}, {"name": "Kultura_odżywiania", "id": 3462139}], "successors": [{"name": "Rośliny_owocowe_tropikalne", "id": 4676757}, {"name": "Szczepy_winorośli", "id": 863486}]}
