@@ -1,1 +1,1 @@
-{"name": "Filmy_kręcone_w_Luizjanie", "id": 3640339, "predecessors": [{"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Filmy_kręcone_w_Nowym_Orleanie", "id": 5365646}]}
+{"name": "Filmy_kręcone_w_Luizjanie", "id": 3640339, "predecessors": [{"name": "Kategorie", "id": 1382275}, {"name": "Kultura_w_Stanach_Zjednoczonych", "id": 1142630}], "successors": [{"name": "Filmy_kręcone_w_Nowym_Orleanie", "id": 5365646}]}

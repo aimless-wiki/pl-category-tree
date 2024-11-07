@@ -1,1 +1,1 @@
-{"name": "Oprogramowanie_Microsoftu", "id": 331049, "predecessors": [{"name": "Oprogramowanie", "id": 82848}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Microsoft_Office", "id": 689954}]}
+{"name": "Oprogramowanie_Microsoftu", "id": 331049, "predecessors": [{"name": "Microsoft_Corporation", "id": 866738}, {"name": "Oprogramowanie", "id": 82848}], "successors": [{"name": "Microsoft_Office", "id": 689954}]}
