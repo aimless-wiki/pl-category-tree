@@ -1,1 +1,1 @@
-{"name": "Sztuczna_inteligencja", "id": 69148, "predecessors": [{"name": "Informatyka", "id": 65978}, {"name": "Psychologia_poznawcza", "id": 108173}], "successors": [{"name": "Robotyka", "id": 131708}, {"name": "Transhumanizm", "id": 1779450}]}
+{"name": "Sztuczna_inteligencja", "id": 69148, "predecessors": [{"name": "Nauki_techniczne", "id": 555304}, {"name": "Psychologia_poznawcza", "id": 108173}], "successors": [{"name": "Robotyka", "id": 131708}, {"name": "Transhumanizm", "id": 1779450}]}

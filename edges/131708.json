@@ -1,1 +1,1 @@
-{"name": "Robotyka", "id": 131708, "predecessors": [{"name": "Informatyka", "id": 65978}, {"name": "Sztuczna_inteligencja", "id": 69148}, {"name": "Filozofia_umysłu_i_kognitywistyka", "id": 444837}, {"name": "Nauki_techniczne", "id": 555304}], "successors": [{"name": "Roboty", "id": 1374191}]}
+{"name": "Robotyka", "id": 131708, "predecessors": [{"name": "Sztuczna_inteligencja", "id": 69148}, {"name": "Nauki_techniczne", "id": 555304}, {"name": "Filozofia_umysłu_i_kognitywistyka", "id": 444837}], "successors": [{"name": "Roboty", "id": 1374191}]}

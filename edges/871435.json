@@ -1,1 +1,1 @@
-{"name": "Standardy_informatyczne", "id": 871435, "predecessors": [{"name": "Informatyka", "id": 65978}, {"name": "Normalizacja", "id": 126202}], "successors": [{"name": "Protokoły_sieciowe", "id": 1697646}, {"name": "Ethernet", "id": 851390}]}
+{"name": "Standardy_informatyczne", "id": 871435, "predecessors": [{"name": "Nauki_techniczne", "id": 555304}, {"name": "Normalizacja", "id": 126202}], "successors": [{"name": "Protokoły_sieciowe", "id": 1697646}, {"name": "Ethernet", "id": 851390}]}

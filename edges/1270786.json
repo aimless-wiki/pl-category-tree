@@ -1,1 +1,1 @@
-{"name": "Wystawy_sztuki", "id": 1270786, "predecessors": [{"name": "Sztuka", "id": 65406}, {"name": "Wystawy", "id": 1090957}], "successors": []}
+{"name": "Wystawy_sztuki", "id": 1270786, "predecessors": [{"name": "Wystawy", "id": 1090957}, {"name": "Sztuka", "id": 65406}], "successors": []}

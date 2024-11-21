@@ -1,1 +1,1 @@
-{"name": "Interakcja_człowieka_z_komputerem", "id": 1127465, "predecessors": [{"name": "Informatyka", "id": 65978}, {"name": "Makroekonomia", "id": 284916}], "successors": [{"name": "Interakcja_programu_z_użytkownikiem", "id": 116236}]}
+{"name": "Interakcja_człowieka_z_komputerem", "id": 1127465, "predecessors": [{"name": "Nauki_techniczne", "id": 555304}, {"name": "Makroekonomia", "id": 284916}], "successors": [{"name": "Interakcja_programu_z_użytkownikiem", "id": 116236}]}
