@@ -1,1 +1,1 @@
-{"name": "Ruch_lotniczy", "id": 540950, "predecessors": [{"name": "Lotnictwo", "id": 66333}], "successors": []}
+{"name": "Ruch_lotniczy", "id": 540950, "predecessors": [{"name": "Lotnictwo", "id": 66333}], "successors": [{"name": "Radary_obserwacji_przestrzeni_powietrznej", "id": 1217570}]}

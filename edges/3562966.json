@@ -1,1 +1,1 @@
-{"name": "Komputerowe_gry_akcji", "id": 3562966, "predecessors": [{"name": "Oprogramowanie", "id": 82848}], "successors": [{"name": "Przygodowe_gry_akcji", "id": 723455}, {"name": "Fabularne_gry_akcji", "id": 1197617}]}
+{"name": "Komputerowe_gry_akcji", "id": 3562966, "predecessors": [{"name": "Rozrywki", "id": 187078}], "successors": [{"name": "Przygodowe_gry_akcji", "id": 723455}, {"name": "Fabularne_gry_akcji", "id": 1197617}]}

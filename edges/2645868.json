@@ -1,1 +1,1 @@
-{"name": "Rynek_energii_elektrycznej", "id": 2645868, "predecessors": [{"name": "Elektrotechnika", "id": 160974}, {"name": "Gospodarka", "id": 458687}], "successors": []}
+{"name": "Rynek_energii_elektrycznej", "id": 2645868, "predecessors": [{"name": "Rynki", "id": 1273148}, {"name": "Elektrotechnika", "id": 160974}], "successors": []}

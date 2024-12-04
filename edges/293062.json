@@ -1,1 +1,1 @@
-{"name": "Komputerowe_gry_przygodowe", "id": 293062, "predecessors": [{"name": "Oprogramowanie", "id": 82848}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Gry_typu_wskaż_i_kliknij", "id": 825528}, {"name": "Powieści_wizualne", "id": 2638397}]}
+{"name": "Komputerowe_gry_przygodowe", "id": 293062, "predecessors": [{"name": "Kategorie", "id": 1382275}, {"name": "Rozrywki", "id": 187078}], "successors": [{"name": "Przygodowe_gry_akcji", "id": 723455}, {"name": "Gry_typu_wskaż_i_kliknij", "id": 825528}, {"name": "Powieści_wizualne", "id": 2638397}]}

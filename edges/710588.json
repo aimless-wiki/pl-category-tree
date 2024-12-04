@@ -1,1 +1,1 @@
-{"name": "Radionawigacja", "id": 710588, "predecessors": [{"name": "Nawigacja", "id": 124760}, {"name": "Radiotechnika", "id": 846813}], "successors": []}
+{"name": "Radionawigacja", "id": 710588, "predecessors": [{"name": "Nawigacja", "id": 124760}, {"name": "Radiotechnika", "id": 846813}], "successors": [{"name": "Radary_obserwacji_przestrzeni_powietrznej", "id": 1217570}]}

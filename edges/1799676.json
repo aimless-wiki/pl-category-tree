@@ -1,1 +1,1 @@
-{"name": "Programy_Disney_Channel", "id": 1799676, "predecessors": [{"name": "Kategorie", "id": 1382275}, {"name": "Amerykańskie_programy_telewizyjne", "id": 3610022}], "successors": [{"name": "Listy_odcinków_seriali_Disney_Channel", "id": 2015210}]}
+{"name": "Programy_Disney_Channel", "id": 1799676, "predecessors": [{"name": "Kategorie", "id": 1382275}, {"name": "Telewizja", "id": 71788}], "successors": [{"name": "Listy_odcinków_seriali_Disney_Channel", "id": 2015210}]}

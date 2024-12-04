@@ -1,1 +1,1 @@
-{"name": "Eposy", "id": 3835975, "predecessors": [{"name": "Kategorie", "id": 1382275}, {"name": "Poezja", "id": 93456}], "successors": [{"name": "Włoskie_eposy", "id": 3836156}, {"name": "Angielskie_eposy", "id": 3836536}, {"name": "Amerykańskie_eposy", "id": 3844288}]}
+{"name": "Eposy", "id": 3835975, "predecessors": [{"name": "Teoria_literatury", "id": 449670}, {"name": "Poezja", "id": 93456}], "successors": [{"name": "Włoskie_eposy", "id": 3836156}, {"name": "Angielskie_eposy", "id": 3836536}, {"name": "Amerykańskie_eposy", "id": 3844288}]}

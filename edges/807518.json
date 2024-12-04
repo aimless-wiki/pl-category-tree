@@ -1,1 +1,1 @@
-{"name": "Strzelanki", "id": 807518, "predecessors": [{"name": "Oprogramowanie", "id": 82848}], "successors": [{"name": "Strzelanki_pierwszoosobowe", "id": 807444}, {"name": "Strzelanki_trzecioosobowe", "id": 807519}]}
+{"name": "Strzelanki", "id": 807518, "predecessors": [{"name": "Rozrywki", "id": 187078}], "successors": [{"name": "Strzelanki_pierwszoosobowe", "id": 807444}, {"name": "Strzelanki_trzecioosobowe", "id": 807519}]}
