@@ -1,1 +1,1 @@
-{"name": "Zmiany_klimatu", "id": 497392, "predecessors": [{"name": "Klimat", "id": 467483}, {"name": "Ochrona_środowiska", "id": 787756}, {"name": "Energetyka", "id": 121899}], "successors": []}
+{"name": "Zmiany_klimatu", "id": 497392, "predecessors": [{"name": "Klimat", "id": 467483}, {"name": "Ochrona_środowiska", "id": 787756}, {"name": "Polityka_energetyczna", "id": 3014242}], "successors": []}

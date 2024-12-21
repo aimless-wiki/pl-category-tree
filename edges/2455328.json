@@ -1,1 +1,1 @@
-{"name": "Energetyka_odnawialna", "id": 2455328, "predecessors": [{"name": "Polityka_gospodarcza", "id": 1137836}, {"name": "Energetyka", "id": 121899}], "successors": [{"name": "Elektrownie_wodne", "id": 547683}]}
+{"name": "Energetyka_odnawialna", "id": 2455328, "predecessors": [{"name": "Polityka_energetyczna", "id": 3014242}, {"name": "Polityka_gospodarcza", "id": 1137836}], "successors": [{"name": "Elektrownie_wodne", "id": 547683}]}

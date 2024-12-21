@@ -1,1 +1,1 @@
-{"name": "MacOS", "id": 2702131, "predecessors": [{"name": "Apple", "id": 197100}, {"name": "Unix", "id": 69149}, {"name": "Kategorie", "id": 1382275}], "successors": [{"name": "Gry_na_platformę_macOS", "id": 2702157}]}
+{"name": "MacOS", "id": 2702131, "predecessors": [{"name": "Apple", "id": 197100}], "successors": [{"name": "Gry_na_platformę_macOS", "id": 2702157}]}
