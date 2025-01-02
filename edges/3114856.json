@@ -1,1 +1,1 @@
-{"name": "Radzieccy_scenarzyści", "id": 3114856, "predecessors": [{"name": "Radzieccy_pisarze", "id": 2323823}, {"name": "Scenarzyści_XX_wieku", "id": 4462402}, {"name": "Praca", "id": 2244196}, {"name": "Sztuka", "id": 65406}], "successors": []}
+{"name": "Radzieccy_scenarzyści", "id": 3114856, "predecessors": [{"name": "Radzieccy_pisarze", "id": 2323823}, {"name": "Scenarzyści_XX_wieku", "id": 4462402}, {"name": "Praca", "id": 2244196}, {"name": "Sztuka", "id": 65406}, {"name": "Teatr", "id": 68284}], "successors": []}
