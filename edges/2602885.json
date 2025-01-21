@@ -1,1 +1,1 @@
-{"name": "Koleje_wąskotorowe_na_Górnym_Śląsku", "id": 2602885, "predecessors": [{"name": "Koleje_wąskotorowe_w_Polsce", "id": 2807920}, {"name": "Województwo_śląskie", "id": 105229}], "successors": []}
+{"name": "Koleje_wąskotorowe_na_Górnym_Śląsku", "id": 2602885, "predecessors": [{"name": "Koleje_wąskotorowe_w_Polsce", "id": 2807920}, {"name": "Górny_Śląsk", "id": 65580}], "successors": []}

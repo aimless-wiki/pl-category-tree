@@ -1,1 +1,1 @@
-{"name": "Tkactwo", "id": 110388, "predecessors": [{"name": "Przemysł_włókienniczy", "id": 308428}, {"name": "Gospodarka", "id": 458687}], "successors": [{"name": "Tkaniny", "id": 110393}]}
+{"name": "Tkactwo", "id": 110388, "predecessors": [{"name": "Przemysł_włókienniczy", "id": 308428}, {"name": "Gospodarka", "id": 458687}], "successors": [{"name": "Tkaniny", "id": 110393}, {"name": "Polscy_tkacze", "id": 3576261}]}

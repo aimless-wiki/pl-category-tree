@@ -1,1 +1,1 @@
-{"name": "Nierozwijane_dystrybucje_Linuksa", "id": 5399522, "predecessors": [{"name": "Dystrybucje_Linuksa", "id": 100006}], "successors": []}
+{"name": "Nierozwijane_dystrybucje_Linuksa", "id": 5399522, "predecessors": [{"name": "Dystrybucje_Linuksa", "id": 100006}, {"name": "Systemy_operacyjne", "id": 66678}], "successors": []}

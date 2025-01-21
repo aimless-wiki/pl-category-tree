@@ -1,1 +1,1 @@
-{"name": "Uczelnie_w_Łodzi", "id": 2710002, "predecessors": [{"name": "Oświata_w_Polsce", "id": 1174861}, {"name": "Szkolnictwo_wyższe_w_Polsce", "id": 2806697}], "successors": [{"name": "Wykładowcy_uczelni_w_Łodzi", "id": 2857823}]}
+{"name": "Uczelnie_w_Łodzi", "id": 2710002, "predecessors": [{"name": "Oświata_w_Polsce", "id": 1174861}, {"name": "Szkolnictwo_wyższe_w_Polsce", "id": 2806697}], "successors": [{"name": "Absolwenci_uczelni_w_Łodzi", "id": 2416439}, {"name": "Wykładowcy_uczelni_w_Łodzi", "id": 2857823}]}
